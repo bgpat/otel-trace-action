@@ -26,7 +26,6 @@ jobs:
       matrix:
         language:
           - TypeScript
-          - actions
           - javascript-typescript
 
     steps:
